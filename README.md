@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Technology.
 - 🌱 I’m currently learning Systems Development.
 - 💞️ I’m looking to collaborate on Java and Python projects
-- 📫 How to reach me ? nthandeka68@gmail.com
+- 📫 How to reach me ? thandie4it@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
