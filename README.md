@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThandieN
 - 👀 I’m interested in all things Coding.
-- 🌱 I’m currently studying towards a BCom in Business Informatics
+- 🌱 I’m currently studying towards a BCom in Informatics
 - 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me ? thandie4it@gmail.com
 - 😄 Pronouns: ...
